@@ -1,0 +1,59 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    background: #01806080;
+    color: #ca82829a;
+    background-image: url(OIP.webp) ;
+    background-position: top center;
+    padding: 20px;
+}
+/* Header */
+header {
+    text-align: center;
+    margin-bottom: 80px;
+}
+h1 {
+    font-size: 3.5rem;
+}
+.tagline {
+    color: rgba(120, 120, 120, 0);
+}
+/* GRID LAYOUT */
+.grid-container {
+    display : grid;
+    grid-template-columns: 200px 200px 200px;
+}
+/* Box styling */
+.box {
+    background : #0f2c53;
+    padding : 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0,1);
+}
+.box h2 {
+    margin-bottom: 10px;
+    color: #cc5500;
+}
+.box ul, .box ol {
+    margin-left: 20px;
+}
+.box p {
+    line-height: 1.5;
+}
+}
+}
+
+}
+}
+}
+}
+}
+}
+}
+ 
+}
